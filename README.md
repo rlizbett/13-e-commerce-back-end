@@ -24,7 +24,8 @@
 ## Questions
     Connect with me on Github: https://github.com/rlizbett  or contact me for any other questions rlizbett21@gmail.com
  
-*Screenshot of the questions*
+*Screenshot of a product POST request on Insomnia*
+<img width="1128" alt="Screenshot 2022-02-26 144958" src="https://user-images.githubusercontent.com/93292915/155858681-294cec6a-d63c-4915-847c-d813574e96ce.png">
 
     
  Link to Demo: 
